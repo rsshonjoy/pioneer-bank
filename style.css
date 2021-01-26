@@ -13,12 +13,12 @@ body{
     display: none;
 }
 .status{
-    margin: 0 2ppx;
+    margin: 0 20px;
     color: white;
     padding: 15px;
     border-radius: 10px;
 }
-.diposit{
+.deposit{
     background-color: slateblue;
 }
 .withdraw{
